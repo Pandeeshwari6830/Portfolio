@@ -1,85 +1,83 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
-
-
+import blogsite from '../assets/svg/projects/blogsite.svg'
+import devconnection from '../assets/svg/projects/devconnection.svg'
+import hospitals from '../assets/svg/projects/hospitals.svg'
+import pharms from '../assets/svg/projects/pharms.svg'
+import musicPlayer from '../assets/svg/projects/musicPlayer.svg'
+import meetups from '../assets/svg/projects/meetups.svg'
+import selfAssessment from '../assets/svg/projects/self-assessment.svg'
+import snake from '../assets/svg/projects/snake.svg'
 export const projectsData = [
     {
-        id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
-    },
-    {
-        id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
-    },
-    {
-        id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
-    },
-    {
-        id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
-    },
-    {
-        id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
-    },
-    {
-        id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
+        id: 8,
+        projectName: 'The BlogSite',
+        projectDesc: 'This project aims to allow Users create their profiles and follow other Users and Post blogs and ask Qustions',
+        tags: ['React', 'Material Ui','Bootstrap','Firebase'],
+        code: 'https://github.com/WAD-Team-Alpha/The-BlogSite',
+        demo: 'https://github.com/WAD-Team-Alpha/The-BlogSite',
+        image: blogsite
     },
     {
         id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
+        projectName: 'Dev Connect APIs',
+        projectDesc: 'This project Provides all the required APIs for a website where developers can create profile and post blogs',
+        tags: ['Node', 'Express', 'MongoDB'],
+        code: 'https://github.com/bannu0snake/api-application',
+        demo: 'https://github.com/bannu0snake/api-application',
+        image: devconnection
     },
     {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
+        id: 6,
+        projectName: 'Pharmassist App',
+        projectDesc: 'This is a cross platform App which aims to connect all the pharmasicts across India where they share opportunities',
+        tags: ['Flutter', 'Dart', 'Firebase SDK'],
+        code: 'https://github.com/bannu0snake/Pharmassist',
+        demo: 'https://github.com/bannu0snake/Pharmassist',
+        image: pharms
+    },
+    {
+        id: 5,
+        projectName: 'Best Hospitals and Doctors Tracker',
+        projectDesc: 'This project helps users to find best doctors and hospitals in their local aera. Users rate the medical facilities',
+        tags: ['Django', 'PostgreSql'],
+        code: 'https://github.com/bannu0snake/Hospital_Review_System',
+        demo: 'https://github.com/bannu0snake/Hospital_Review_System',
+        image: hospitals
+    },
+    {
+        id: 4,
+        projectName: 'MeetUps app',
+        projectDesc: 'A Simple web app with Next.js to uploud Meetups',
+        tags: ['Next Js', 'React', 'MongoDB'],
+        code: 'https://github.com/bannu0snake/nextjs-app',
+        demo: 'https://github.com/bannu0snake/nextjs-app',
+        image: meetups
+    },
+    {
+        id: 3,
+        projectName: 'Student Self Assessment Site',
+        projectDesc: 'The aim of this project that students can self assess their scores in the exam and can set goals and track their work',
+        tags: ['Django', 'PostgreSql'],
+        code: 'https://github.com/bannu0snake/SRIT-Website',
+        demo: 'https://github.com/bannu0snake/SRIT-Website',
+        image: selfAssessment
+    },
+    {
+        id: 2,
+        projectName: 'Musical App',
+        projectDesc: 'A simple stock market API app',
+        tags: ['JavaScript', 'HTML', 'Bootstrap'],
+        code: 'https://github.com/bannu0snake/musical-site',
+        demo: 'https://bannu0snake.github.io/musical-site/',
+        image: musicPlayer
+    },
+    {
+        id: 1,
+        projectName: 'Snake Game',
+        projectDesc: 'This is snake game app made with python, Tkinter and Turtle. This game has good UI and UX',
+        tags: ['Python', 'TkInter','Turtle'],
+        code: 'https://github.com/bannu0snake/snake-game',
+        demo: 'https://github.com/bannu0snake/snake-game',
+        image: snake
     },
 ]
 
