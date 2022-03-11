@@ -6,15 +6,25 @@ import musicPlayer from '../assets/svg/projects/musicPlayer.svg'
 import meetups from '../assets/svg/projects/meetups.svg'
 import selfAssessment from '../assets/svg/projects/self-assessment.svg'
 import snake from '../assets/svg/projects/snake.svg'
+import rainfall from '../assets/svg/projects/rainfall.svg'
 export const projectsData = [
     {
-        id: 8,
+        id: 9,
         projectName: 'The BlogSite',
         projectDesc: 'This project aims to allow Users create their profiles and follow other Users and Post blogs and ask Qustions',
         tags: ['React', 'Material Ui','Bootstrap','Firebase'],
         code: 'https://github.com/WAD-Team-Alpha/The-BlogSite',
         demo: 'https://github.com/WAD-Team-Alpha/The-BlogSite',
         image: blogsite
+    },
+    {
+        id: 8,
+        projectName: 'HydroMetLab',
+        projectDesc: 'This project is Done in collabaration with IIT Roorkee, A Web-based Tool for obtaining the design rainfall from the Intensity-Duration-Frequency Curves .',
+        tags: ['React','Bootstrap','Firebase'],
+        code: '',
+        demo: 'http://hydrometlab.in/',
+        image: rainfall
     },
     {
         id: 7,
