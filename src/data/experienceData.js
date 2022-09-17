@@ -22,7 +22,7 @@ export const experienceData = [
   },
   {
     id: 3,
-    company: "Freelancing",
+    company: "IIT Roorkee",
     jobtitle: "Flull Stack Developer",
     startYear: "Jan 2022",
     endYear: "Feb 2022",

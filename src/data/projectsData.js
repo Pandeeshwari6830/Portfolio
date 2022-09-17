@@ -8,9 +8,10 @@ import selfAssessment from "../assets/svg/projects/self-assessment.svg";
 import snake from "../assets/svg/projects/snake.svg";
 import rainfall from "../assets/svg/projects/rainfall.svg";
 import vr from "../assets/svg/projects/vr.svg";
+import nsr from "../assets/svg/projects/NSR.svg";
 export const projectsData = [
   {
-    id: 10,
+    id: 11,
     projectName: "Virtual and Agumented Reality",
     projectDesc:
       "We are working on a product which helps students, maths easier to understand",
@@ -20,7 +21,7 @@ export const projectsData = [
     image: vr,
   },
   {
-    id: 9,
+    id: 10,
     projectName: "The BlogSite",
     projectDesc:
       "This project aims to allow Users create their profiles and follow other Users and Post blogs and ask Qustions",
@@ -30,7 +31,7 @@ export const projectsData = [
     image: blogsite,
   },
   {
-    id: 8,
+    id: 9,
     projectName: "HydroMetLab",
     projectDesc:
       "This project is Done in collabaration with IIT Roorkee, A Web-based Tool for obtaining the design rainfall from the Intensity-Duration-Frequency Curves .",
@@ -40,17 +41,7 @@ export const projectsData = [
     image: rainfall,
   },
   {
-    id: 7,
-    projectName: "Dev Connect APIs",
-    projectDesc:
-      "This project Provides all the required APIs for a website where developers can create profile and post blogs",
-    tags: ["Node", "Express", "MongoDB"],
-    code: "https://github.com/bannu0snake/api-application",
-    demo: "https://github.com/bannu0snake/api-application",
-    image: devconnection,
-  },
-  {
-    id: 6,
+    id: 8,
     projectName: "Pharmassist App",
     projectDesc:
       "This is a cross platform App which aims to connect all the pharmasicts across India where they share opportunities",
@@ -60,7 +51,17 @@ export const projectsData = [
     image: pharms,
   },
   {
-    id: 5,
+    id: 7,
+    projectName: "News Paper retrieval",
+    projectDesc:
+      " The main focus of this search engine is to collect over 30,000 documents that are relevant to the query entered by the user.",
+    tags: ["Web Scrapping", "python", "Indexing"],
+    code: "https://github.com/bannu0snake/News-Paper-Retrieval",
+    demo: "https://github.com/bannu0snake/News-Paper-Retrieval",
+    image: nsr,
+  },
+  {
+    id: 6,
     projectName: "Best Hospitals and Doctors Tracker",
     projectDesc:
       "This project helps users to find best doctors and hospitals in their local aera. Users rate the medical facilities",
@@ -68,6 +69,16 @@ export const projectsData = [
     code: "https://github.com/bannu0snake/Hospital_Review_System",
     demo: "https://github.com/bannu0snake/Hospital_Review_System",
     image: hospitals,
+  },
+  {
+    id: 5,
+    projectName: "Dev Connect APIs",
+    projectDesc:
+      "This project Provides all the required APIs for a website where developers can create profile and post blogs",
+    tags: ["Node", "Express", "MongoDB"],
+    code: "https://github.com/bannu0snake/api-application",
+    demo: "https://github.com/bannu0snake/api-application",
+    image: devconnection,
   },
   {
     id: 4,

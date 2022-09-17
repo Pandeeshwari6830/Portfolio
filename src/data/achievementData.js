@@ -1,5 +1,5 @@
 export const achievementData = {
-  bio: "I started my College days As an Introvert, I always say no to things that make me a public or central figure, Soon I realized that what I am doing was Wrong then I slowly started Taking Leadership roles in projects and club activities which Ultimately improved my communication skills and Boosted my confidence a lot.",
+  bio: "I started my undergraduate days without having any clue about CSE. I am not good at communication skills, not good at Coding, and not interactive in club activities. But, After completion of my first year, I realized that I should change the approach to improving my technical and communication skills. I started Learning Web Development skills and started applying for Internships. Then, at the beginning of the third year, I started taking leadership roles in club activities which helped me to improve my communication skills and technical knowledge.",
   achievements: [
     {
       id: 1,
@@ -17,7 +17,8 @@ export const achievementData = {
         "As an Android Study Jam Facilitator I conducted sessions on Android and earned all badges in the Developer Profile",
       date: "Dec, 2021",
       field: "App Dev",
-      image: "https://bit.ly/3phQbiZ",
+      image:
+        "https://media.sketchfab.com/models/31dc8169556c42f2a0ae8b3c63db802b/thumbnails/40388e4297094af58b90bec2d93737da/e673bb0dbefb4db1bca8d877a8eeb400.jpeg",
     },
     {
       id: 3,
