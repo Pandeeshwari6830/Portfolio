@@ -17,7 +17,7 @@ export const educationData = [
     id: 3,
     institution: "Narayana School",
     course: "Secondary School of Education",
-    startYear: "20016",
+    startYear: "2016",
     endYear: "2017",
   },
 ];
