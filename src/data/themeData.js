@@ -24,5 +24,3 @@ function isDay() {
 export const themeData = {
   theme: isDay() ? purpleThemeLight : purpleThemeDark,
 };
-
-// Choose theme from above

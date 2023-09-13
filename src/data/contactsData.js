@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'mahaboob.developer@gmail.com',
-    phone: '+91 6301418535',
-    address: 'Nellore, Andhra Pradesh, India - 524004 ',
+  email: "reshwanthpamidimarri@gmail.com",
+  phone: "+91 8328648382",
+  address: "Buchi Reddy Palem, Nellore, Andhra Pradesh, India - 524305 ",
 
-    sheetAPI: 'https://sheetdb.io/api/v1/d7ppfbbgc2z8x'
-}
+  MONGOURI: "",
+};

@@ -3,44 +3,13 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "30 Days of Google Cloud",
+      title: "Virtusa Student Ambassador Program Winner",
       details:
-        "Partipated in 30 days of google cloud Programme where I got opportunity to explore GCP, completed Quests and earned some  fine goodies",
-      date: "Sep, 2021",
-      field: "Cloud ",
-      image: "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
-    },
-    {
-      id: 2,
-      title: "Android Study Jam Facilitator",
-      details:
-        "As an Android Study Jam Facilitator I conducted sessions on Android and earned all badges in the Developer Profile",
-      date: "Dec, 2021",
-      field: "App Dev",
+        "Partipated in VSAP Programme where I got opportunity to explore Java Full Stack Development",
+      date: "Jun, 2022",
+      field: "Java Full Stack ",
       image:
-        "https://media.sketchfab.com/models/31dc8169556c42f2a0ae8b3c63db802b/thumbnails/40388e4297094af58b90bec2d93737da/e673bb0dbefb4db1bca8d877a8eeb400.jpeg",
-    },
-    {
-      id: 3,
-      title: "GDSC APP Dev Lead",
-      details:
-        "I am Lead For App Development In GDSC IIIT Sri City. I do Sessions and Guide students in App Development",
-      date: "Sep, 2021",
-      field: "GDSC",
-      image:
-        "https://cdn-images-1.medium.com/max/1200/1*GUnXaV_rVzuce67X__7G6w.png",
+        "https://www.ai-expo.net/europe/wp-content/uploads/2022/09/Virtusa-Logo.png",
     },
   ],
 };
-
-// Do not remove any fields.
-// Leave it blank instead as shown below.
-
-/*
-
-export const achievementData = {
-    bio : "",
-    achievements : []
-}
-
-*/
