@@ -1,7 +1,7 @@
 export const contactsData = {
-  email: "reshwanthpamidimarri@gmail.com",
-  phone: "+91 8328648382",
-  address: "Buchi Reddy Palem, Nellore, Andhra Pradesh, India - 524305 ",
+  email: "thilagaranithilagarani6830@gmail.com",
+  phone: "+91 9894416464",
+  address: "Buchi Reddy Palem, Nellore, Tamil Nadu, India - 524305 ",
 
   MONGOURI: "",
 };

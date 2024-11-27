@@ -1,15 +1,4 @@
 export const achievementData = {
-  bio: "I started my undergraduate days without having any clue about CSE. I am not good at communication skills, not good at Coding, and not interactive in club activities. But, After completion of my first year, I realized that I should change the approach to improving my technical and communication skills. I started Learning Web Development skills and started applying for Internships. Then, at the beginning of the third year, I started taking leadership roles in club activities which helped me to improve my communication skills and technical knowledge.",
-  achievements: [
-    {
-      id: 1,
-      title: "Virtusa Student Ambassador Program Winner",
-      details:
-        "Partipated in VSAP Programme where I got opportunity to explore Java Full Stack Development",
-      date: "Jun, 2022",
-      field: "Java Full Stack ",
-      image:
-        "https://www.ai-expo.net/europe/wp-content/uploads/2022/09/Virtusa-Logo.png",
-    },
-  ],
+  bio: "I was a good enough to speak fluently in english with everyone because of my fear I can't do that infront of anyone .I understand my strength and will power to over come and fear so I have boldly started my journey  I have achieved achiever of the year 2023 in JEE course that was conducted by Embibe online  platform  that was a course organised by our school.I have got 2nd prize in kho-ko and 1st prize in running race which was held on last year by our school I have boldly done justice to my passion and goal.",
+  achievements: [],
 };
